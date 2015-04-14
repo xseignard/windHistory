@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+}
+core-header-panel {
+  background: white;
+}
+core-toolbar {
+  background-color: #03A9F4;
+}
+
+.range {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 3px;
+  margin-top: 3px;
+}
+
+.one {
+  background-color: rgb(253,180,92);
+}
+
+.two {
+  background-color: rgb(247,70,74);
+}
+
+.three {
+  background-color: rgb(70,191,189);
+}
+
+.box {
+  min-height: 420px;
+  height: 420px;
+}
+
+.intro {
+  min-height: 150px;
+  //height: 100px;
+  //margin-bottom: 20px;
+}
